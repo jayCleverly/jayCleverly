@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @jayCleverly
+- I'm interested in becoming a full stack engineer after I finish a software engineering degree.
+- I like to create projects for all areas in computing, with web development being a key favourite. 
+- I hope you find my projects interesting!
