@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @jayCleverly
 - I'm interested in becoming a full stack engineer after I finish a computer science degree.
-- I currently run a small web development buisness for small companies wanting to have an online presence - cleverlydeveloped.com
-- I like to create projects for all areas in computing, with front end design being a key favourite. 
 - I hope you find my projects interesting!
