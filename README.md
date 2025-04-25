@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @jayCleverly
-- I'm interested in becoming a full stack engineer after I finish a computer science degree.
+- I'm currently a software engineering intern, passionate about full stack development, and I'm starting to build some projects to develop my skills with AWS and how to build automated processes.
 - I hope you find my projects interesting!
