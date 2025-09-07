@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @jayCleverly
-- I'm currently a software engineering intern, passionate about full stack development, and I'm starting to build some projects to develop my skills with AWS and how to build automated processes.
+- I'm currently a BSc Computer Science final year student, passionate about backend development, and I'm starting to build some projects to develop my skills with AWS.
 - I hope you find my projects interesting!
